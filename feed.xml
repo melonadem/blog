@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MelonadeM&#x27;s Blog</title>
+    <link href="https://melonadem.github.io/blog/feed.xml" rel="self" />
+    <link href="https://melonadem.github.io/blog" />
+    <updated>2021-10-15T19:37:28+01:00</updated>
+    <author>
+        <name>Mel</name>
+    </author>
+    <id>https://melonadem.github.io/blog</id>
+
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>Mel</name>
+        </author>
+        <link href="https://melonadem.github.io/blog/hello-world.html"/>
+        <id>https://melonadem.github.io/blog/hello-world.html</id>
+
+        <updated>2021-10-15T19:37:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is more of a test post, I'm trying to see if I can pull off a simple blog for general long-winded musings and thoughts, would be a better deal than trying to use TwitLonger, haha. Anyway! We shall see how well it works out.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is more of a test post, I'm trying to see if I can pull off a simple blog for general long-winded musings and thoughts, would be a better deal than trying to use TwitLonger, haha.</p>
+<p>Anyway! We shall see how well it works out.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
