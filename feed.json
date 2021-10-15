@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://melonadem.github.io/blog/hello-world.html",
-            "url": "https://melonadem.github.io/blog/hello-world.html",
+            "id": "https://melonadem.github.io/blog/hello-world/",
+            "url": "https://melonadem.github.io/blog/hello-world/",
             "title": "Hello world!",
             "summary": "This is more of a test post, I'm trying to see if I can pull off a simple blog for general long-winded musings and thoughts, would be a better deal than trying to use TwitLonger, haha. Anyway! We shall see how well it works out.",
             "content_html": "<p>This is more of a test post, I'm trying to see if I can pull off a simple blog for general long-winded musings and thoughts, would be a better deal than trying to use TwitLonger, haha.</p>\n<p>Anyway! We shall see how well it works out.</p>",
