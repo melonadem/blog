@@ -5,12 +5,36 @@
 <loc>https://melonadem.github.io/blog/</loc>
 </url>
 <url>
+<loc>https://melonadem.github.io/blog/buying-an-old-synth-replace-the-batteries-asap/</loc>
+<lastmod>2021-10-22T18:17:50+01:00</lastmod>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\3/featuredimage.png</image:loc>
+<image:title><![CDATA[Featured image.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\3/solderedbattery.png</image:loc>
+<image:title><![CDATA[Soldered battery]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\3/holder-battery.png</image:loc>
+<image:title><![CDATA[Battery in a holder]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\3/u220-test.png</image:loc>
+<image:title><![CDATA[U220 patch memory test (successful)]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\3/rack-final.png</image:loc>
+<image:title><![CDATA[Final result of doing this procedure in bulk]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://melonadem.github.io/blog/hello-world/</loc>
 <lastmod>2021-10-15T19:37:28+01:00</lastmod>
 </url>
 <url>
 <loc>https://melonadem.github.io/blog/simmering-thoughts-on-dread/</loc>
-<lastmod>2021-10-21T21:31:59+01:00</lastmod>
+<lastmod>2021-10-22T18:18:14+01:00</lastmod>
 <image:image>
 <image:loc>https://melonadem.github.io/blog/media\posts\2/featuredimg.png</image:loc>
 <image:title><![CDATA[Simmering thoughts on Dread Featured Image]]></image:title>
