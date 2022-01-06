@@ -44,4 +44,20 @@
 <image:title><![CDATA[Image capture of Metroid Dread]]></image:title>
 </image:image>
 </url>
+<url>
+<loc>https://melonadem.github.io/blog/swapping-batteries-out-the-hard-way-part-1/</loc>
+<lastmod>2022-01-06T16:11:26+00:00</lastmod>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\4/s4-takenapartsolder.jpg</image:loc>
+<image:title><![CDATA[S4 Taken Apart with Soldering Equipment]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\4//alesis-s4.jpg</image:loc>
+<image:title><![CDATA[The synth in question, before surgical procedure]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://melonadem.github.io/blog/media\posts\4/s4-battery-layout.jpg</image:loc>
+<image:title><![CDATA[Layout of the battery in the S4]]></image:title>
+</image:image>
+</url>
 </urlset>
